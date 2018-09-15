@@ -1,0 +1,29 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Just Java</string>
+    <string name="desc">Android Basics Practice</string>
+    <string name="picker" translatable="false">Picker view</string>
+    <string name="quan">Quantity</string>
+    <string name="amt" translatable="false">2</string>
+    <string name="price">Order Summary</string>
+    <string name="priceAmt">$10</string>
+    <string name="order">Order</string>
+    <string name="plus" translatable="false">+</string>
+    <string name="minus" translatable="false">-</string>
+    <string name="toppings">Topping</string>
+    <string name="whipC">Whipped Cream</string>
+    <string name="cocoa">Chocolate</string>
+    <string name="name">Name</string>
+
+    <string name="upper_bound">You can not order more than 100 cups of coffee.</string>
+    <string name="lower_bound">You can not order less than one cup of coffee.</string>
+    <!-- Thank you message for the thank you. [CHAR LIMIT=NONE] -->
+    <string name="thank_you">Thank you!</string>
+    <string name="order_summary_name">Name: <xliff:g id="name" example="Mac">%s</xliff:g></string>
+    <string name="order_quantity">Qunatity: <xliff:g id="quantity" example="2">%d</xliff:g></string>
+    <string name="add_whipped">Add whipped cream? <xliff:g id="addWhippedCream" example="true">%b</xliff:g></string>
+    <string name="add_cocoa">Add chocolate? <xliff:g id="addChocolate" example="true">%b</xliff:g></string>
+    <string name="order_total">Total: $<xliff:g id="price" example="$10">%d</xliff:g></string>
+    <string name="email_subject">Just Java order for <xliff:g id="name" example="app name">%s</xliff:g></string>
+</resources>

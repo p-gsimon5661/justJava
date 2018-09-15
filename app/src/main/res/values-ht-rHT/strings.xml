@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Seulment Java</string>
+    <string name="desc" translatable="false">Pratik Debaz pou Android</string>
+    <string name="quan" translatable="false">Kantité</string>
+    <string name="price" translatable="false">Rézimé Machandiz</string>
+    <string name="priceAmt" translatable="false">$10</string>
+    <string name="order" translatable="false">Rézimé</string>
+    <string name="toppings" translatable="false">Mété Sou Tèt</string>
+    <string name="whipC" translatable="false">Vide Krèm</string>
+    <string name="cocoa" translatable="false">Chokola</string>
+    <string name="name" translatable="false">Nombre</string>
+    <string name="upper_bound" translatable="false">Ou paka mandé plis ké 100 tas café</string>
+    <string name="lower_bound" translatable="false">Ou paka mandé mwens ké yon tas café</string>
+    <string name="thank_you" translatable="false">Mèsi</string>
+    <string name="order_summary_name" translatable="false">Nombre:</string>
+    <string name="order_quantity" translatable="false">Kantité:</string>
+    <string name="add_whipped" translatable="false">Ajouté Vide Krèm?</string>
+    <string name="add_cocoa" translatable="false">Ajouté chokola?</string>
+    <string name="order_total" translatable="false">Total:</string>
+    <string name="email_subject" translatable="false">Rézimé Seulment Java pou</string>
+</resources>
